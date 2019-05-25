@@ -1,4 +1,5 @@
-# Mockups May 23 - May 30
+# Mockups May 23 - May 
+ this site is published at https://talathussain12345.github.io/slack-2019/
 
 Check the mockups folder and create a pixel perfect clone! 
 
